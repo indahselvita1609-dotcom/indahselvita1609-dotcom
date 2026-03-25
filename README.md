@@ -1,16 +1,28 @@
-## Hi there 👋
+# Halo, Saya [Indah Selvita Indriyanti Simarmata] 👋
 
-<!--
-**indahselvita1609-dotcom/indahselvita1609-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 Profil Singkat
+Saya adalah individu yang berfokus pada integrasi antara strategi pemasaran digital dan teknologi. Saat ini, saya aktif mengelola proyek pemasaran properti sekaligus mengembangkan solusi digital untuk manajemen waktu dan konflik lingkungan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 **Pendidikan**: [Universitas Jambi]
+* 📍 **Lokasi**: [Kota Jambi, Indonesia]
+
+---
+
+## 🛠️ Keahlian (Skills)
+* Desain Visual (Canva) & Dokumentasi Proyek
+
+---
+
+## 🚀 Proyek & Pengalaman
+* **[Siajad - Siap Jadwal]**: Founder & Lead Developer aplikasi manajemen waktu mahasiswa.
+
+---
+
+## 📬 Hubungi Saya
+* **Email**: [indahselvita1609@gmail.com]
+* **Instagram**: [@indhselvta]
+
+---
+*Terima kasih telah berkunjung ke profil saya!*
